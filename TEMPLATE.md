@@ -13,7 +13,7 @@
 
 I'm a indie hacker and Python enthusiast building things on the web. 
 
-My Github Logs I pushed **0**+ commits, opened **0**+ issues, submitted **0**+ pull requests, created **0**+ gists and contributed to **0**+ public repositories.
+My Github Logs I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
 
 <img align="right" width="375" alt="" src="https://media4.giphy.com/media/PxSFAnuubLkSA/giphy.gif" />
