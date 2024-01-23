@@ -21,7 +21,7 @@ I'm a Software Development Engineer, mostly working on backend development of di
 My Github Logs I pushed **2358**+ commits, opened **1**+ issues, submitted **441**+ pull requests, created **1**+ gists and contributed to **2**+ public repositories.
 
 
-<img align="right" width="375" alt="" src="https://media4.giphy.com/media/PxSFAnuubLkSA/giphy.gif" />
+<img align="right" width="375" alt="" src="https://miro.medium.com/v2/resize:fit:948/format:webp/1*wB7GCf1Aaic4tsizPVLdrQ.jpeg" />
 
 ### 🚀 Talking about Personal Stuff:
 
