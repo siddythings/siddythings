@@ -18,9 +18,6 @@ My boring but brief work intro:
 I'm a Software Development Engineer, mostly working on backend development of distributed and highly scalable systems. I've hands-on design & development of applications in domains like supply chain, networking, banking & payments. Also familiar with domains like automobile and health-tech, and have been active in the community space for some time.
 
 
-My Github Logs I pushed **2516**+ commits, opened **1**+ issues, submitted **443**+ pull requests, created **1**+ gists and contributed to **3**+ public repositories.
-
-
 <img align="right" width="375" alt="" src="https://miro.medium.com/v2/resize:fit:948/format:webp/1*wB7GCf1Aaic4tsizPVLdrQ.jpeg" />
 
 ### 🚀 Talking about Personal Stuff:
