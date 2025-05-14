@@ -5,7 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://siddythings.com)
 
 ### 👋 Welcome to my dev corner on the Internet!  
-![](https://visitor-badge.glitch.me/badge?page_id=siddythings.siddythings&style=flat-square&color=blue)
 
 I'm a founder-focused engineer, currently building products at the intersection of AI, automation, and the creator economy. Over the years, I’ve launched multiple SaaS tools, marketplaces, and full-stack systems—shipping fast and iterating with user feedback.
 
