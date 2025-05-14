@@ -1,45 +1,51 @@
-## Hello, World! 👋👋, I'm [Siddhart Vikram!](https://twitter.com/siddythings)  :)
-<!-- and you've reached my Dev space on the WWW -->
-
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
+## Hello, World! 👋 I'm [Siddhartha Vikram](https://twitter.com/siddythings)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddythings)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siddythings)
-<!-- [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/siddythings/) -->
-<!-- [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vikrantbhat.hashnode.dev/) -->
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://siddythings.com)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=siddythings.siddythings&style=flat-square&color=0088cc)
+### 👋 Welcome to my dev corner on the Internet!  
+![](https://visitor-badge.glitch.me/badge?page_id=siddythings.siddythings&style=flat-square&color=blue)
 
+I'm a founder-focused engineer, currently building products at the intersection of AI, automation, and the creator economy. Over the years, I’ve launched multiple SaaS tools, marketplaces, and full-stack systems—shipping fast and iterating with user feedback.
 
-Hi, I'm a Software Engineer by profession and an explorer by choice. I know a little about a lot of things in tech with a proven track record of delivering highly scalable systems in multiple startup environments. Not to mention, I write beautiful code. 
+---
 
-My boring but brief work intro:
+### ⚙️ What I'm Building:
 
-I'm a Software Development Engineer, mostly working on backend development of distributed and highly scalable systems. I've hands-on design & development of applications in domains like supply chain, networking, banking & payments. Also familiar with domains like automobile and health-tech, and have been active in the community space for some time.
+- 🛍️ [Nippy](https://try-nippy.com) — Nippy is your AI-powered action agent that turns natural language into real-world tasks. Instead of switching between 10 different apps to get one thing done, users can simply tell Nippy what they want — like “schedule a call, send an intro email, and prep a doc” — and Nippy handles it across tools like Gmail, Notion, and Calendar.
 
+### ⚙️ What I've build previously:
+- 🧬 [HealthVital](https://healthvital.app) — A healthtech platform that helps you easily understand your health reports. Chat with your report to get deep insights, ask questions, and get personalized recommendations on diet, exercise, and more..
+- ⚡ [1kwh.in](https://1kwh.in) — India’s first P2P renewable energy trading platform, built on blockchain + AI.
 
-<img align="right" width="375" alt="" src="https://miro.medium.com/v2/resize:fit:948/format:webp/1*wB7GCf1Aaic4tsizPVLdrQ.jpeg" />
+---
 
-### 🚀 Talking about Personal Stuff:
+### 👨‍💻 A Bit More About Me
+- 🛠 Backend wizardry in Python, FastAPI, MongoDB, Redis, Celery, AWS, GCP and many more.
+- 🧪 Tinkering with LLMs, embeddings, LangChain, fine-tuning, and vector databases.
+- 🌍 Previously launched apps across 18+ countries, scaled features across healthtech, energy, and automotive domains.
 
-- 🛠 &nbsp; At the moment working with Python, AWS Lambda, AWS Cognito, MongoDB, Postgres.
-- 🐍 &nbsp; Python aficionado
-- 🌱 &nbsp; Always eager to learn and explore new technologies across diverse domains 💡
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/siddythings).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/siddythings/siddythings/issues/1)! I am happy to help.
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/siddythings) or siddythings@gmail.com.
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/siddythings/siddythings/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
-<!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
+---
 
-### 🔥 My Absolute Favorites:
+### 💡 What I Enjoy:
 
-- 💻 &nbsp; I thrive on diving into new tech realms, crafting cutting-edge creations that push the boundaries.
-- 📰 &nbsp; Wordsmithing tech blogs ignites my passion, especially when unraveling uncommon solutions to the challenges I've faced firsthand.
-- 🍕 &nbsp; Fueling my tech obsession with the adrenaline of hackathons, the camaraderie of meetups, and the buzz of tech events.
+- ✍️ Writing about problems I’ve solved (and the ones that made me cry first).
+- 🧵 Building in public. Shipping MVPs fast. Breaking things to learn faster.
+- 🧠 Anything to do with automation, marketplaces, AI, and indie hacking.
+- 🧑‍🤝‍🧑 Collaborating with founders & creators to build bold things.
 
+---
+
+### 📫 Let's Connect
+
+If you're building something exciting or want to jam on AI x infra x SaaS ideas — ping me!
+
+- 🐦 [DM me on Twitter](https://twitter.com/siddythings)
+- 📧 siddythings@gmail.com
+
+---
 
 <div align="center">
-
-### Let's become friends on [Twitter](https://twitter.com/siddythings)!
-
+🚀 "Build like you're right. Listen like you're wrong."
 </div>
