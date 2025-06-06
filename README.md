@@ -11,7 +11,7 @@ I'm a founder-focused engineer, currently building products at the intersection 
 
 ### ⚙️ What I'm Building:
 
-- 🛍️ [Nippy](https://try-nippy.com) — Nippy is your AI-powered action agent that turns natural language into real-world tasks. Instead of switching between 10 different apps to get one thing done, users can simply tell Nippy what they want — like “schedule a call, send an intro email, and prep a doc” — and Nippy handles it across tools like Gmail, Notion, and Calendar.
+- 🛍️ [willy](https://Moatbuild.ai) — Willy is your AI-powered action agent that turns natural language into real-world tasks. Instead of switching between 10 different apps to get one thing done, users can simply tell Nippy what they want — like “schedule a call, send an intro email, and prep a doc” — and Nippy handles it across tools like Gmail, Notion, and Calendar.
 
 ### ⚙️ What I've build previously:
 - 🧬 [HealthVital](https://healthvital.app) — A healthtech platform that helps you easily understand your health reports. Chat with your report to get deep insights, ask questions, and get personalized recommendations on diet, exercise, and more..
